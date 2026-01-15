@@ -1,4 +1,4 @@
-# Logic Puzzle Benchmark Suite: The Tiered Calibration
+## Logic Puzzles - SLMs
 
 This suite is designed to test the reasoning depth of Large and Small Language Models, specifically focusing on the transition from "Helpful Prediction" to "Logical Integrity."
 
