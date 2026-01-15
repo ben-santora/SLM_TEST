@@ -1,7 +1,7 @@
-# Linux SLM Challenge Suite - Implementation Plan
+# Linux SLM Challenge Suite - Implementation of Test Plan
 
 ## Goal Description
-Create a set of "Real World" benchmarks tailored for a Linux user to test `gemma-3-4-it`. Moving away from abstract logic puzzles to concrete utility in a Linux environment.
+Create a set of benchmarks tailored for Linux application - testing of `gemma-3-4-it`. Moving away from reasoning / logic puzzles to tasks with concrete utility in a Linux environment.
 
 ## Proposed Challenges
 
