@@ -1,4 +1,4 @@
-# Linux SLM Challenge Suite - Implementation of Test Plan
+## Linux SLM Testing
 
 ## Goal Description
 Create a set of benchmarks tailored for Linux application - testing of `gemma-3-4-it`. Moving away from reasoning / logic puzzles to tasks with concrete utility in a Linux environment.
