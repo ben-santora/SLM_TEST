@@ -1,6 +1,6 @@
 ## Logic Puzzles - SLMs
 
-This suite is designed to test the reasoning depth of Large and Small Language Models, specifically focusing on the transition from "Helpful Prediction" to "Logical Integrity."
+This suite is designed to test the reasoning depth of small language models, specifically focusing on the transition from "Helpful Prediction" to "Logical Integrity."
 
 ---
 
@@ -9,18 +9,18 @@ This suite is designed to test the reasoning depth of Large and Small Language M
 **Goal:** Test basic state tracking and process of elimination.
 
 ### The Puzzle
-Three jewels (Diamond, Ruby, Topaz) are placed in three colored boxes (Red, Blue, Gold). Each box contains exactly one jewel.
+Three jewels (Diamond, Ruby, Emerald) are placed in three colored boxes (Red, Blue, Gold). Each box contains exactly one jewel.
 
 **The Constraints:**
 1. The Diamond is not in the Blue box.
 2. The Ruby is in the Gold box.
-3. The Red box does not contain the Topaz.
+3. The Red box does not contain the Emerald.
 
 **Task:** Determine which jewel is in which box.
 
 **Correct Reasoning Trace:**
 - Ruby is in the Gold box (Direct Assignment).
-- Topaz cannot be in the Red box (Constraint 3) and cannot be in the Gold box (occupied by Ruby). Therefore, Topaz is in the Blue box.
+- Emerald cannot be in the Red box (Constraint 3) and cannot be in the Gold box (occupied by Ruby). Therefore, Emerald is in the Blue box.
 - Diamond must be in the Red box (the only remaining location).
 
 ---
